@@ -1553,9 +1553,9 @@
   integrity sha512-/aPsuoj/1Dw/kzhkgz+ES6TxG0zfTMGLwuK2ZG00k/iJzYHTLCE8mVU8EPqEOp/lmxPoq1C1C9RYToRKb2KEfg==
 
 "@sindresorhus/is@^5.2.0":
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-5.4.1.tgz#c4383ce702fb90531c3d310506bab89e70427c53"
-  integrity sha512-axlrvsHlHlFmKKMEg4VyvMzFr93JWJj4eIfXY1STVuO2fsImCa7ncaiG5gC8HKOX590AW5RtRsC41/B+OfrSqw==
+  version "5.5.1"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-5.5.1.tgz#a18b694ca8e9f45d64f578a4779568dd74d232b8"
+  integrity sha512-wTsEUhqTXg1NDW+o9aWANj4LxELwWjqN0F3ltsWwpYoh0NSlMWo+u7FluRrSF2E2uaPYx7dJ3FnTf69git/0ug==
 
 "@szmarczak/http-timer@^4.0.0":
   version "4.0.6"
@@ -5334,9 +5334,9 @@ https-proxy-agent@5.0.1, https-proxy-agent@^5.0.0:
     debug "4"
 
 hugo-bin@^0.111.0:
-  version "0.111.2"
-  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.111.2.tgz#8345d947db5928e67efadeb3886a1a53f481086e"
-  integrity sha512-L7URwx4E3Plp+3xi+kD9fl/XfNj9pKDWtrTqoQvW65oKi5upyTdmto7iEmF6b7MYlskb0XaIv//yJBmqpz3g5A==
+  version "0.111.3"
+  resolved "https://registry.yarnpkg.com/hugo-bin/-/hugo-bin-0.111.3.tgz#f25f119df76394d4466d9eb8a8fd2d6f03641872"
+  integrity sha512-8F9ToASAN7uHoscHBqlXfGIoDT9XPAZQYzB3LIny+2shw6njTQ51RHb/h5T7g7E6+3oFlBgIP3zcZIeo3pOwiA==
   dependencies:
     "@xhmikosr/bin-wrapper" "^11.0.2"
     pkg-conf "^4.0.0"
@@ -6022,9 +6022,9 @@ keyv@^4.0.0:
     json-buffer "3.0.1"
 
 keyv@^4.5.2:
-  version "4.5.2"
-  resolved "https://registry.yarnpkg.com/keyv/-/keyv-4.5.2.tgz#0e310ce73bf7851ec702f2eaf46ec4e3805cce56"
-  integrity sha512-5MHbFaKn8cNSmVW7BYnijeAVlE4cYA/SVkifVgrh7yotnfhKmjuXpDKjrABLnT0SfHWV21P8ow07OGfRrNDg8g==
+  version "4.5.3"
+  resolved "https://registry.yarnpkg.com/keyv/-/keyv-4.5.3.tgz#00873d2b046df737963157bd04f294ca818c9c25"
+  integrity sha512-QCiSav9WaX1PgETJ+SpNnx2PRRapJ/oRSXM4VO5OGYGSjrxbKPVFVhB3l2OCbLCk329N8qyAtsJjSjvVBWzEug==
   dependencies:
     json-buffer "3.0.1"
 
